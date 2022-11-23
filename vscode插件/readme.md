@@ -1,0 +1,17 @@
+### 常用vscode扩展
+> [商店下载地址](https://marketplace.visualstudio.com/)
+
+1. [better-comment](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+2. [mermaid](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid)
+3. [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+4. [prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+5. [auto-close-tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+6. [auto-rename-tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+7. [volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+8. [drawio](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
+9. [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+10. [stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
+11. [sass](https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented)
+12. [windicss](https://marketplace.visualstudio.com/items?itemName=voorjaar.windicss-intellisense)
+13. [todo-tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+14. [todo-highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
