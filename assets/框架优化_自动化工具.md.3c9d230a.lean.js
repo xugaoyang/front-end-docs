@@ -1,1 +1,0 @@
-import{_ as s,o as n,c as a,O as l}from"./chunks/framework.865a7308.js";const A=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"框架优化/自动化工具.md","filePath":"框架优化/自动化工具.md"}'),p={name:"框架优化/自动化工具.md"},o=l("",36),e=[o];function t(c,D,r,y,F,C){return n(),a("div",null,e)}const u=s(p,[["render",t]]);export{A as __pageData,u as default};

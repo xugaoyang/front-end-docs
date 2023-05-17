@@ -1,1 +1,0 @@
-import{_ as l,o as i,c as t,O as n}from"./chunks/framework.865a7308.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"编码规范/版本规范.md","filePath":"编码规范/版本规范.md"}'),o={name:"编码规范/版本规范.md"},a=n("",7),e=[a];function r(c,s,_,d,h,m){return i(),t("div",null,e)}const g=l(o,[["render",r]]);export{u as __pageData,g as default};

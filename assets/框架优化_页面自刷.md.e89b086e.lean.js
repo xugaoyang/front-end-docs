@@ -1,1 +1,0 @@
-import{_ as s,o as a,c as n,O as e}from"./chunks/framework.865a7308.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"框架优化/页面自刷.md","filePath":"框架优化/页面自刷.md"}'),l={name:"框架优化/页面自刷.md"},o=e("",9),t=[o];function p(c,r,i,d,C,A){return a(),n("div",null,t)}const u=s(l,[["render",p]]);export{_ as __pageData,u as default};
