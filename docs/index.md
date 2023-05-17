@@ -15,7 +15,7 @@ hero:
       link: /编码规范/js规范
     - theme: alt
       text: View on GitHub
-      link: https://github.com/vuejs/vitepress
+      link: https://github.com
 
 features:
   - icon: ⚡️
