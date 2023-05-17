@@ -2,6 +2,8 @@
 
 
 ## 配置npm/yarn仓库
+
+
 npm config set registry https://xxx
 
 

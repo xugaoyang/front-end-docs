@@ -1,4 +1,4 @@
-### 实用chrome插件集合
+# 实用chrome插件集合
 > 插件下载地址：[扩展迷](https://www.extfans.com/)
 
 1. [fehelper前端助手](https://www.extfans.com/web-development/pkgccpejnmalmdinmhkkfafefagiiiad/)

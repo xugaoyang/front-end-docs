@@ -1,4 +1,4 @@
-### 常用vscode扩展
+# 常用vscode扩展
 > [商店下载地址](https://marketplace.visualstudio.com/)
 
 1. [better-comment](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)

@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: 开始
-      link: /编码规范/js规范
+      link: /编码规范/css规范
     - theme: alt
       text: View on GitHub
       link: https://github.com
