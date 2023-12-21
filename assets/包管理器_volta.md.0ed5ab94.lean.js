@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as l,M as n}from"./chunks/framework.0a4b53e9.js";const h=JSON.parse('{"title":"volta","description":"","frontmatter":{},"headers":[],"relativePath":"包管理器/volta.md","filePath":"包管理器/volta.md"}'),o={name:"包管理器/volta.md"},t=n("",10),p=[t];function e(c,i,r,y,B,d){return a(),l("div",null,p)}const v=s(o,[["render",e]]);export{h as __pageData,v as default};

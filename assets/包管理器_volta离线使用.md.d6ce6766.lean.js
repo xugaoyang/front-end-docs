@@ -1,1 +1,0 @@
-import{_ as s,o as a,c as n,O as l}from"./chunks/framework.865a7308.js";const v=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"包管理器/volta离线使用.md","filePath":"包管理器/volta离线使用.md"}'),o={name:"包管理器/volta离线使用.md"},e=l("",7),t=[e];function p(c,i,r,d,C,_){return a(),n("div",null,t)}const h=s(o,[["render",p]]);export{v as __pageData,h as default};

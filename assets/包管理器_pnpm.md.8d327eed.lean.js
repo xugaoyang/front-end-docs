@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,M as l}from"./chunks/framework.0a4b53e9.js";const D=JSON.parse('{"title":"pnpm","description":"","frontmatter":{},"headers":[],"relativePath":"包管理器/pnpm.md","filePath":"包管理器/pnpm.md"}'),p={name:"包管理器/pnpm.md"},e=l("",22),o=[e];function t(c,i,r,y,d,m){return a(),n("div",null,o)}const h=s(p,[["render",t]]);export{D as __pageData,h as default};

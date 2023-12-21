@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,M as e}from"./chunks/framework.0a4b53e9.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"git规范/git规范.md","filePath":"git规范/git规范.md"}'),l={name:"git规范/git规范.md"},t=e("",36),o=[t];function p(i,c,d,r,b,m){return a(),n("div",null,o)}const g=s(l,[["render",p]]);export{u as __pageData,g as default};

@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,M as l}from"./chunks/framework.0a4b53e9.js";const E=JSON.parse('{"title":"vue规范","description":"","frontmatter":{},"headers":[],"relativePath":"编码规范/vue规范.md","filePath":"编码规范/vue规范.md"}'),p={name:"编码规范/vue规范.md"},o=l("",23),t=[o];function e(c,D,F,r,y,i){return n(),a("div",null,t)}const u=s(p,[["render",e]]);export{E as __pageData,u as default};

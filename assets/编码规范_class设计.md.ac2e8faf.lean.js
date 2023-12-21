@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,M as l}from"./chunks/framework.0a4b53e9.js";const A=JSON.parse('{"title":"Class","description":"","frontmatter":{},"headers":[],"relativePath":"编码规范/class设计.md","filePath":"编码规范/class设计.md"}'),p={name:"编码规范/class设计.md"},o=l("",10),e=[o];function t(c,r,y,F,D,B){return n(),a("div",null,e)}const E=s(p,[["render",t]]);export{A as __pageData,E as default};

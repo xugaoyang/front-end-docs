@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,M as l}from"./chunks/framework.0a4b53e9.js";const h=JSON.parse('{"title":"html规范","description":"","frontmatter":{},"headers":[],"relativePath":"编码规范/html规范.md","filePath":"编码规范/html规范.md"}'),o={name:"编码规范/html规范.md"},p=l("",3),t=[p];function e(c,D,F,r,y,i){return a(),n("div",null,t)}const m=s(o,[["render",e]]);export{h as __pageData,m as default};

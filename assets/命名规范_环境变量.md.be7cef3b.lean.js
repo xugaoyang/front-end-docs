@@ -1,1 +1,0 @@
-import{_ as a,o as l,c as e,O as i}from"./chunks/framework.865a7308.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"命名规范/环境变量.md","filePath":"命名规范/环境变量.md"}'),s={name:"命名规范/环境变量.md"},o=i("",30),_=[o];function r(t,n,P,p,A,c){return l(),e("div",null,_)}const R=a(s,[["render",r]]);export{d as __pageData,R as default};
