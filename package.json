@@ -1,15 +1,23 @@
 {
   "name": "front-end-docs",
   "version": "1.0.0",
+  "type": "module",
   "main": "index.js",
   "repository": "git@github.com:xugaoyang/front-end-docs.git",
   "author": "yann <yann_xu@outlook.com>",
   "license": "MIT",
-  "scripts":{
+  "scripts": {
     "dev": "vitepress dev docs",
     "build": "vitepress build docs"
   },
   "dependencies": {
-    "vitepress": "^1.0.0-alpha.75"
+    "vitepress": "1.0.0-alpha.75"
+  },
+  "devDependencies": {
+    "@mermaid-js/mermaid-mindmap": "^9.3.0",
+    "fs": "0.0.1-security",
+    "mermaid": "^10.6.1",
+    "path": "^0.12.7",
+    "vitepress-plugin-mermaid": "^2.0.16"
   }
 }
